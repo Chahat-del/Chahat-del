@@ -1,16 +1,54 @@
 ## Hi there 👋
 
-<!--
-**Chahat-del/Chahat-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Chahat Khandelwal 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Full Stack Developer & AI Enthusiast | MERN Stack | CSE @ DSCE</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Chahat-del) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahatkhandelwal2005@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vercel-one-brown.vercel.app)
+</p>
+
+---
+
+## About Me
+
+- I'm a Full Stack Developer and AI Enthusiast
+- Currently exploring MERN Stack, DSA & AI/ML
+- I love designing clean UIs and building meaningful projects
+- Passionate about creating smooth digital experiences
+
+---
+
+## Tech Stack
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+
+---
+
+## Featured Projects
+
+- **Sweet Crumbs** — Full-stack bakery web app built with MERN stack, deployed on Vercel
+- **Portfolio** — Personal portfolio website showcasing projects and skills
+- **Hospital Management System** — Web app to manage patient and doctor records using React & Node.js
+
+---
+
+## Git Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=Chahat-del&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chahat-del&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chahat-del&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <em>Thanks for visiting! Feel free to explore my repositories and connect 🚀</em>
+</p>
