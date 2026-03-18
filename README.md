@@ -37,14 +37,15 @@
 
 ## Git Stats
 
+
+## Git Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Chahat-del&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chahat-del&hide=stars,commits,issues&show_icons=true&theme=dark&hide_border=true&include_all_commits=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chahat-del&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chahat-del&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chahat-del&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
